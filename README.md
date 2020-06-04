@@ -72,14 +72,15 @@ Discuss traditional approach to application development and its challenges and u
 </details>
 
 
-### Demo Expense Report finished application
+<details><summary>Demo Expense Report finished application</summary>
+
 -  Define business need
 -  Show completed application
    - UI (Pages, mini cards, Business Rules)
    - Business Process and Cases
    - Data and Filters
    - Integrations  
-
+</details>
 
 ### Timeline (approximate)
 |Section                |Duration   |
