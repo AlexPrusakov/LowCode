@@ -78,11 +78,12 @@ Discuss traditional approach to application development and its challenges and u
    - UI (Pages, mini cards, Business Rules)
    - Business Process and Cases
    - Data and Filters
-   - Integrations
+   - Integrations  
 
 
+### Timeline (approximate)
 |Section                |Duration   |
-|:-                     |:-        :|
+|:---                   |:---      :|
 |Why develop            | 15 min    |
 |Traditional approach   | 15 min    |
 |Low-Code approach      | 15 min    |
