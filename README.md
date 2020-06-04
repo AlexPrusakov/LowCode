@@ -83,7 +83,7 @@ Discuss traditional approach to application development and its challenges and u
 
 ### Timeline (approximate)
 |Section                |Duration   |
-|:---                   |:---      :|
+|:----------------------|:---------:|
 |Why develop            | 15 min    |
 |Traditional approach   | 15 min    |
 |Low-Code approach      | 15 min    |
