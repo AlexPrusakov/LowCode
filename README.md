@@ -1,5 +1,16 @@
 # LowCode Lecture 1
 
+### Timeline (approximate)
+|Section                |Duration   |
+|:----------------------|:---------:|
+|Why develop            | 15 min    |
+|Traditional approach   | 15 min    |
+|Low-Code approach      | 15 min    |
+|Expense Report Demo    | 5 min     |
+|**Total**              | **50 min**|
+
+
+
 <details><summary>Why develop</summary>
 
 - Business demand for bespoke applications
@@ -82,12 +93,4 @@ Discuss traditional approach to application development and its challenges and u
    - Integrations  
 </details>
 
-### Timeline (approximate)
-|Section                |Duration   |
-|:----------------------|:---------:|
-|Why develop            | 15 min    |
-|Traditional approach   | 15 min    |
-|Low-Code approach      | 15 min    |
-|Expense Report Demo    | 5 min     |
-|**Total**              | **50 min**|
 
