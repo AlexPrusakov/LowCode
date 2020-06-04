@@ -1,4 +1,4 @@
-# LowCode Test
+# LowCode Lecture 1
 
 <details><summary>Why develop</summary>
 
