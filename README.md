@@ -25,7 +25,7 @@
 </details>
 
 Discuss traditional approach to application development and its challenges and use cases.
-<details><summary>Traditiona Application development lifecycle</summary>
+<details><summary>Traditional Application development lifecycle</summary>
 
 1. Planning
 2. Analysis
@@ -56,7 +56,7 @@ Discuss traditional approach to application development and its challenges and u
 <details><summary>Who are the citizens and who is citizen developer</summary>
 
 - Define citizen & citizen developer
-- How citizen developer differ from traditional developers
+- How citizen developers differ from traditional developers
 - Things in common
 - Advantages
   - Reduced miscommunication 
